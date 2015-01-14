@@ -6,3 +6,5 @@
            (> x palindrome))
   (setq palindrome x))
  (print palindrome))
+
+i'll fix tomorrow
