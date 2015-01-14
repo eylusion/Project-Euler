@@ -3,5 +3,5 @@
        (setq palindrome 0)
   (if (equal (princ-to-string x) (reverse (princ-to-string x)))
       (and (> x palindrome))
-      (setq palindrome x))
-(print palindrome))
+      (setq palindrome x)
+  (print palindrome)))
